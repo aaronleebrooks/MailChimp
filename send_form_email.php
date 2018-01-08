@@ -1,5 +1,4 @@
 <?php
-ini_set('display_errors', 1);
 if(isset($_POST['email'])) {
 	function died($error) {
 		echo "Sorry to hear about it, but there was a problem with the form."
@@ -47,14 +46,8 @@ if(isset($_POST['email'])) {
       return str_replace($bad,"",$string);
     }
 
-    $email_message .= "Name: ".clean_string($name)."\n";
-    $email_message .= "Title: ".clean_string($title)."\n";
-
-$headers = 'From: '.$email_from."\r\n".
-'Reply-To: '.$email_from."\r\n" .
-'X-Mailer: PHP/' . phpversion();
-@mail($email_to, $email_subject, $email_message, $headers);
-}  
+    echo $name;
+    echo $email_to;
+    echo $title;
+}
 ?>
-
-<p>Thank you for contacting us. We will be in touch with you very soon.</p>
