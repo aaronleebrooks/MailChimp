@@ -69,6 +69,9 @@ html {background-color: #3eb7d2} body, td {font-size:13px} a:link, a:active {col
 <td class="m_-5097230901504109588mcnTextContent" valign="top" style="padding:0 9px 0 9px;word-break:break-word;color:#808080;font-family:Helvetica;font-size:16px;line-height:150%;text-align:left" width="564">
 <div style="text-align:center"><span style="font-size:12px">If all of this isn't enough, here is a balloon Frederick von Chimpenheimer IV (or Freddie for short)</span></div></td>
 </tr>
+</td>
+</tr>
+</tbody></table>
 <td align="center" valign="top" id="m_-5097230901504109588templateFooter" style="background:#333333 none no-repeat center/cover;background-color:#333333;background-image:none;background-repeat:no-repeat;background-position:center;background-size:cover;border-top:0;border-bottom:0;padding-top:45px;padding-bottom:63px">
 <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%" class="m_-5097230901504109588templateContainer" style="border-collapse:collapse;max-width:600px!important">
 <tbody><tr>
