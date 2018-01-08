@@ -35,19 +35,16 @@ html {background-color: #3eb7d2} body, td {font-size:13px} a:link, a:active {col
 <tbody><tr>
 <td valign="top" class="m_-9222482336791725274mcnTextContent" style="padding-top:0;padding-right:18px;padding-bottom:9px;padding-left:18px;word-break:break-word;color:#202020;font-family:Helvetica;font-size:16px;line-height:150%;text-align:left">
 <h1 style="text-align:center;display:block;margin:0;padding:0;color:#202020;font-family:Helvetica;font-size:26px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:normal">Hello again. Glad you could make it.</h1>
-<?php
+&nbsp;&nbsp;
+<p style="margin:10px 0;padding:0;color:#202020;font-family:Helvetica;font-size:16px;line-height:150%;text-align:left">&nbsp; &nbsp;Wow,&nbsp;I can't believe that <?php
 
 	$name = $_POST['name'];
 	$title = $_POST['title'];
 	$email_to = $_POST['email'];
 
-    echo $name0;
-    echo $email_to;
-    echo $title;
+    echo $name . ', ' . $title;
 
-?>
-&nbsp;&nbsp;
-<p style="margin:10px 0;padding:0;color:#202020;font-family:Helvetica;font-size:16px;line-height:150%;text-align:left">&nbsp; &nbsp;Wow,&nbsp;I can't believe that NAME, TITLE at MailChimp, is viewing my project! What an honor!<br>
+?> at MailChimp, is viewing my project! What an honor!<br>
 <br>
 &nbsp; &nbsp;While this isn't exactly the next Facebook, I learned PHP and executed deploying this small project just in one weekend! I am a quick learner, and if given the opportunity, I would love to show you how I can become a productive and vital member of your team.<br>
 <br>
