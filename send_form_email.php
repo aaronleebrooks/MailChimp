@@ -1,8 +1,9 @@
 <html>
 <body>
 
-<?php 
+<?php
 
+if(isset($_POST['email'])) {
 	function died($error) {
 		echo "Sorry to hear about it, but there was a problem with the form."
 		echo "Check it out and see how we can fix it."
