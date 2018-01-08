@@ -2,9 +2,9 @@
 <!-- saved from url=(0138)https://mail.google.com/mail/u/1/?ui=2&ik=b7e89d77da&jsver=veKV0pjIDTc.en.&view=pt&msg=160d3637feb65871&search=inbox&siml=160d3637feb65871 -->
 <html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><style type="text/css" nonce="">
 body,td,div,p,a,input {font-family: arial, sans-serif;}
-</style><meta http-equiv="X-UA-Compatible" content="IE=edge"><title>Gmail - Project Banana</title><style type="text/css" nonce="">
+</style><meta http-equiv="X-UA-Compatible" content="IE=edge"><title>MailChimp + Aaron = <3</title><style type="text/css" nonce="">
 html {background-color: #3eb7d2} body, td {font-size:13px} a:link, a:active {color:#1155CC; text-decoration:none} a:hover {text-decoration:underline; cursor: pointer} a:visited{color:##6611CC} img{border:0px} pre { white-space: pre; white-space: -moz-pre-wrap; white-space: -o-pre-wrap; white-space: pre-wrap; word-wrap: break-word; max-width: 800px; overflow: auto;} .logo { left: -7px; position: relative; }
-</style></head><body>
+</style><link rel="shortcut icon" type="image/x-icon" href="./Gmail - Project Banana_files/favicon.ico" /></head><body><div class="bodycontainer"><table width="100%" cellpadding="0" cellspacing="0" border="0"></head><body>
 <table align="center" border="0" cellpadding="0" cellspacing="0" height="100%" width="100%" id="m_-9222482336791725274bodyTable" style="border-collapse:collapse;height:100%;margin:0;padding:0;width:100%;background-color:#3eb7d2">
 <tbody><tr>
 <td align="center" valign="top" id="m_-9222482336791725274bodyCell" style="height:100%;margin:0;padding:10px;width:100%;border-top:0">
