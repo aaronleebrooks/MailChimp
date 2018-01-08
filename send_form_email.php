@@ -46,7 +46,7 @@ html {background-color: #3eb7d2} body, td {font-size:13px} a:link, a:active {col
 
 ?> at MailChimp, is viewing my project! What an honor!<br>
 <br>
-&nbsp; &nbsp;While this isn't exactly the next Facebook, I learned PHP and executed deploying this small project just in one weekend! I am a quick learner, and if given the opportunity, I would love to show you how I can become a productive and vital member of your team.<br>
+&nbsp; &nbsp;While this isn't exactly the next Facebook, I learned PHP and deployed this small project just in one weekend! I am a quick learner, and if given the opportunity, I would love to show you how I can become a productive and vital member of your team.<br>
 <br>
 &nbsp; &nbsp;Please feel free to give me a call at <a href="tel:(706)%20352-1039" value="+17063521039" target="_blank">706-352-1039</a> or email me at <a href="mailto:The.Aaron.Lee.Brooks@gmail.com" target="_blank">The.Aaron.Lee.Brooks@gmail.com</a><wbr>. My portfolio is at AaronLeeBrooks.com, and my LinkedIn and Github are both just AaronLeeBrooks. Thank you again for taking the time to check out this project and my page, and I look forward to hearing from you!</p>
 </td>
@@ -55,7 +55,19 @@ html {background-color: #3eb7d2} body, td {font-size:13px} a:link, a:active {col
 </td>
 </tr>
 </tbody>
-</table></td>
+</table><table border="0" cellpadding="0" cellspacing="0" width="100%" class="m_-5097230901504109588mcnCaptionBlock" style="border-collapse:collapse">
+<tbody class="m_-5097230901504109588mcnCaptionBlockOuter">
+<tr>
+<td class="m_-5097230901504109588mcnCaptionBlockInner" valign="top" style="padding:9px">
+<table align="left" border="0" cellpadding="0" cellspacing="0" class="m_-5097230901504109588mcnCaptionBottomContent" style="border-collapse:collapse">
+<tbody><tr>
+<td class="m_-5097230901504109588mcnCaptionBottomImageContent" align="center" valign="top" style="padding:0 9px 9px 9px">
+<img alt="" src="./Gmail - Project Banana_files/L2p1m9KlY_5JWXbLh24fXiR1P5jDQ6YAWRW4iZUYGJ5ahb5WT1yJnRnWET8fpYxGWqjlFVV2E51rdBCOMtrme-M_DqrcsZ3Xn6Hd-0Y9-NJYUlcUtTRcK3_a2Vg9NxmHB06MbZnSdUzQoHwIZNj_rQ1MnBgtOEeTFHsBxYk=s0-d-e1-ft" width="300" style="max-width:300px;border:0;height:auto;outline:none;text-decoration:none;vertical-align:bottom" class="m_-5097230901504109588mcnImage">
+</td>
+</tr>
+<tr>
+<td class="m_-5097230901504109588mcnTextContent" valign="top" style="padding:0 9px 0 9px;word-break:break-word;color:#808080;font-family:Helvetica;font-size:16px;line-height:150%;text-align:left" width="564">
+<div style="text-align:center"><span style="font-size:12px">If all of this isn't enough, here is a balloon Frederick von Chimpenheimer IV (or Freddie for short)</span></div></td>
 </tr>
 <td align="center" valign="top" id="m_-5097230901504109588templateFooter" style="background:#333333 none no-repeat center/cover;background-color:#333333;background-image:none;background-repeat:no-repeat;background-position:center;background-size:cover;border-top:0;border-bottom:0;padding-top:45px;padding-bottom:63px">
 <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%" class="m_-5097230901504109588templateContainer" style="border-collapse:collapse;max-width:600px!important">
