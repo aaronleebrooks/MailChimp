@@ -1,5 +1,5 @@
 <?php
-
+ini_set('display_errors', 1);
 if(isset($_POST['email'])) {
 	function died($error) {
 		echo "Sorry to hear about it, but there was a problem with the form."
