@@ -182,7 +182,7 @@ This is a Project Runway style competition I coordinated at Voxpro. I did my bes
 <table align="left" border="0" cellpadding="0" cellspacing="0" style="max-width:100%;min-width:100%;border-collapse:collapse" width="100%" class="m_-5097230901504109588mcnTextContentContainer">
 <tbody><tr>
 <td valign="top" class="m_-5097230901504109588mcnTextContent" style="padding-top:0;padding-right:18px;padding-bottom:9px;padding-left:18px;word-break:break-word;color:#808080;font-family:Helvetica;font-size:16px;line-height:150%;text-align:left">
-<h3 style="display:block;margin:0;padding:0;color:#444444;font-family:Helvetica;font-size:22px;font-style:normal;font-weight:bold;line-height:150%;letter-spacing:normal;text-align:left">Learning with Positivity</h3>
+<h3 style="display:block;margin:0;padding:0;color:#444444;font-family:Helvetica;font-size:22px;font-style:normal;font-weight:bold;line-height:150%;letter-spacing:normal;text-align:center">Learning through Positivity</h3>
 <p style="margin:10px 0;padding:0;color:#808080;font-family:Helvetica;font-size:16px;line-height:150%;text-align:left">&nbsp; &nbsp;I have a proven track record of learning ridiculously quick. Since learning your stack, I have begun the process of learning PHP and have completed a simple form below. I am still learning, but I would love to talk with you about what I have learned about PHP so far, and I'd love to learn a lot more about the platform you have created with PHP.</p>
 </td>
 </tr>
@@ -198,7 +198,7 @@ This is a Project Runway style competition I coordinated at Voxpro. I did my bes
 <tbody>
 <tr>
 <td align="center" valign="middle" class="m_-5097230901504109588mcnButtonContent" style="font-family:Arial;font-size:16px;padding:15px">
-<form name="contactform" method="post" action="send_form_email.php">
+<form name="contactform" method="post" action="send_form_email.php" target="_blank">
 <table width="450px">
 <tr>
  <td valign="top">
